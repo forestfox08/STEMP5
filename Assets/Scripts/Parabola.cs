@@ -1,5 +1,5 @@
 using UnityEngine;
-
+/*
 public class Parabola : MonoBehaviour
 {
     [SerializeField] Point point;
@@ -22,5 +22,5 @@ public class Parabola : MonoBehaviour
             Point copyOfPoint = Instantiate(point);
             copyOfPoint.transform.position = new Vector3(i, 0, 0);
         }
-    }
-}
+    }*/
+
